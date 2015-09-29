@@ -1,0 +1,31 @@
+body{
+background: #FFE;
+border-color: #000;
+font-size: 25px;
+ }
+
+ h1 {
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    font-size: :100px;
+ }
+ img  {
+    width: 500px;
+    height: 500px;
+    border: 3px solid black;
+}
+.image .caption { font-size: 80%;
+                  font-family: Verdana, Arial, sans-serif;
+                  text-align: center; }
+
+}
+
+h2 {
+    font-size: 50px;
+   	font-family: "Arial Verdana", Arial, sans-serif;
+ }
+h3 {
+   color: #887
+}
+
+
